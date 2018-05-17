@@ -1,9 +1,9 @@
 Image classififier, using keypoints and bag of words technique.
 
-- 1) Extract image descriptors using SIFT/SURF
-- 2) Perform k-means clustering on the descriptors to generate the dictionary
-- 3) Generate histograms of images based on dictionary
-- 4) Train SVM using histograms
+-  Extract image descriptors using SIFT/SURF
+-  Perform k-means clustering on the descriptors to generate the dictionary
+-  Generate histograms of images based on dictionary
+-  Train SVM using histograms
 
 
 Train:
