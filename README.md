@@ -1,4 +1,4 @@
-# imgage_recognition
+Model training on images. Prediction of what's in the picture
 
 Train:
 ```
@@ -9,3 +9,7 @@ Test:
 ```
 python getClass.py -t dataset/test --visualize
 ```
+Result of testing images:
+
+![image_1](https://i.imgur.com/CT9f8qN.png) ![image_2](https://i.imgur.com/aOQ8XPj.png)
+
