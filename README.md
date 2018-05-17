@@ -13,6 +13,6 @@ Result of testing images:
 
 ![image_1](https://i.imgur.com/CT9f8qN.png) ![image_2](https://i.imgur.com/aOQ8XPj.png)
  
-Result from telegram bot:
+Result from telegram bot:               
 
-![image_3](https://imgur.com/a/1XiBfVz)
+![image_3](https://i.imgur.com/caTapRk.jpg)
