@@ -1,4 +1,6 @@
-Image classififier, using keypoints and bag of words technique.
+# Bag Of Virtual Words
+
+## Image classififier, using keypoints and bag of words technique.
 
 -  Extract image descriptors using SIFT/SURF
 -  Perform k-means clustering on the descriptors to generate the dictionary
